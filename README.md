@@ -2,6 +2,7 @@
 
 | Repo contents |
 |:---:|
+|**[Comp-3DSGG](https://github.com/hojunking/3DSGG-compression)** : [TMM] Compression Framework for Light 3D Scene Graph Generation via Pruning-as-Search and Distillation|
 |**[Crop and Paste](https://github.com/knu-on-plus/Crop-Pasting)** : Recycling waste data crop and paste augmentation technique via Segment Anything Model (SAM)|
 |**[Dr.Yak](https://github.com/knu-on-plus/Dr.Yak)** : Shining Daegu SW Hackathon 2023 - AI-Based Drug Assistant for the Elderly (Excellence prize)|
 |**[Disaster Classifier](https://github.com/hojunking/auto_disaster_classifier)** : Development of  disaster image classifier for disaster information and vulnerable groups (VI Lab Task)|
